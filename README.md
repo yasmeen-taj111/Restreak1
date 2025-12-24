@@ -436,6 +436,17 @@ This project is licensed under the ISC License.
 
 - None at the moment. Please report any issues you encounter!
 
+## 🌐 Deployment Status
+
+⚠️ Deployment is currently in progress.
+
+the application is not yet live.
+However, all core features are fully implemented and tested locally.
+Screenshots are provided below to demonstrate functionality.
+
+Live deployment will be added soon.
+
+
 ## 🔮 Future Enhancements
 
 - [ ] Weekly view option
