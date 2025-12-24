@@ -104,7 +104,7 @@ NODE_ENV=development
 
 **Note**:
 
-- For MongoDB Atlas, use your connection string: `mongodb+srv://username:password@cluster.mongodb.net/habit_sleep_tracker`
+- For MongoDB Atlas, use your connection string: mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTER_URL>/<DB_NAME>
 - Use a strong, random `JWT_SECRET` in production
 - Port 5001 is used because port 5000 is often occupied by macOS Control Center
 
