@@ -96,7 +96,7 @@ npm install
 Create a `.env` file in the `backend` directory:
 
 ```bash
-MONGO_URI=mongodb://127.0.0.1:27017/habit_sleep_tracker
+MONGO_URI=mongodb+srv://<credentials>@<cluster-url>/<database-name>
 JWT_SECRET=your-strong-secret-key-here
 PORT=5001
 NODE_ENV=development
